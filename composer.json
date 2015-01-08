@@ -1,5 +1,5 @@
 {
-    "name":         "nulpunkt/behat-mink-browserstack",
+    "name":         "gzankevich/behat-mink-browserstack",
     "description":  "A Browserstack aware feature context for Behat",
     "keywords":     ["selenium", "webdriver", "javascript", "ajax", "testing", "browser"],
     "license":      "MIT",
@@ -15,7 +15,7 @@
     "require": {
         "php":                          ">=5.3.1",
         "behat/mink-extension":		 	"*",
-        "behat/mink-selenium2-driver":  "1.0.*"
+        "behat/mink-selenium2-driver":  "1.2.*"
     },
 
     "autoload": {
